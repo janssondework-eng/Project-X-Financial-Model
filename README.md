@@ -6,6 +6,10 @@ This repository contains a portfolio-grade financial model for **Project X**, a 
 
 The model is built as a 36-month startup financial forecast and includes revenue streams, user growth, unit economics, P&L, cash flow, valuation and sensitivity analysis.
 
+## Disclaimer
+
+All assumptions are synthetic and used for educational, portfolio and planning purposes only. The model is not intended as investment advice.
+
 ## Business Model
 
 Project X monetization includes:
@@ -58,9 +62,27 @@ The Excel model includes:
 - Investment analysis
 - Excel financial model structuring
 
+## Repository Structure
+
+```
+Project-X-Financial-Model/
+│
+├── financial_model/
+│   └── Project_X_Financial_Model.xlsx
+│
+├── docs/
+│   └── model_overview.md
+│
+├── screenshots/
+│   └── dashboard_preview.png
+│
+├── README.md
+└── LICENSE
+```
+
 ## Files
 
-- `financial_model/Project_X_Financial_Model_GitHub_Final.xlsx` — main Excel financial model
+- `Project_X_Financial_Model.xlsx` — main Excel financial model
 - `docs/model_overview.md` — model overview and assumptions summary
 - `screenshots/dashboard_preview.png` — dashboard preview
 
