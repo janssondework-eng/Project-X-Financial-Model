@@ -1,5 +1,7 @@
 # Project X Financial Model
 
+[Русская версия](README_RUS.md)
+
 Portfolio financial model for an early-stage digital platform focused on student housing and roommate matching.
 
 The model evaluates monetization strategy, user growth, unit economics, operating expenses, cash flow, valuation and sensitivity under different business scenarios.
